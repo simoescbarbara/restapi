@@ -10,4 +10,4 @@
 
 ### To generate an executable jar:
 - mvn package
-- run java -jar hello-0.0.1-SNAPSHOT.jar on console 
+- run <java -jar hello-0.0.1-SNAPSHOT.jar> on console 
