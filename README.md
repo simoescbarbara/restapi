@@ -3,7 +3,7 @@
 ## How to run the API
 
 ### If you don't have maven installed:
- - .mvnw/ clean spring-boot:run 
+ - ./mvnw clean spring-boot:run 
  
 ### If you already have maven installed:
 - mvn clean spring-boot:run
